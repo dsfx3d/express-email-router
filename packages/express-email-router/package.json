@@ -1,8 +1,10 @@
 {
   "name": "express-email-router",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A reusable express router that adds a RESTful API to your app for sending emails",
-  "main": "index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "build": "tsc"
   },
