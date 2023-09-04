@@ -1,0 +1,22 @@
+{
+  "name": "express-email-router",
+  "version": "1.0.0",
+  "description": "A reusable express router that adds a RESTful API to your app for sending emails",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "express-router",
+    "send-email-api",
+    "email",
+    "express",
+    "router",
+    "restful-api"
+  ],
+  "author": "Yashodhan Singh <dsfx3d@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
